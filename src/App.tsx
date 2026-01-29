@@ -1,5 +1,6 @@
 import './App.css'
-import ContactForm from './components/ContactForm'
+import YupForm from './components/YupForm'
+//import ContactForm from './components/ContactForm'
 // import Form from './components/Form'
 
 function App() {
@@ -7,7 +8,8 @@ function App() {
   return (
     <>
       {/*<Form />*/}
-      <ContactForm />
+      {/*<ContactForm />*/}
+      <YupForm />
     </>
   )
 }
